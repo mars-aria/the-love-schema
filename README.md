@@ -1,6 +1,8 @@
 # the-love-schema
 
-In linguistics, there is a syntactical rule that adjectives have to appear in a particular word order. That order is:
+In linguistics, there is a syntactical rule that adjectives have to appear in a particular word order. 
+
+That order is the following:
 
 1. quantity or number
 2. quality or opinion
