@@ -1,6 +1,6 @@
 # the-love-schema
 
-In the English language (and most others as well), there is a rule that adjectives have to appear in a particular order. That order is:
+In linguistics, there is a syntactical rule that adjectives have to appear in a particular word order. That order is:
 
 1. quantity or number
 2. quality or opinion
@@ -12,5 +12,7 @@ In the English language (and most others as well), there is a rule that adjectiv
 8. material
 9. type
 10. purpose
+
+In this database, the personal characteristics (e.g. physical features, personality, etc.) of two fictional characters in an unrequited love relationship are similarly described in order to demonstrate their dating compatiability. It includes 15 - 20+ adjectives per individual. Implemented using MySQL, MariaDB, and Azure Lab Services.
 
 Spotify Playlist (Bonus): https://open.spotify.com/playlist/7KqtmGizc1e7dAFnsks3Xj?si=KP37PMgXST-qMos4DpXv9A&utm_source=native-share-menu&nd=1#login
