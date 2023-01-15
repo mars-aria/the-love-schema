@@ -1,5 +1,3 @@
-
-Paper View
 MariaDB [The_Love_Schema]> SHOW TABLES;
 
 +---------------------------+
