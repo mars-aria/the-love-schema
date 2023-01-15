@@ -72,6 +72,3 @@ FROM person_1, person_2, Love
 WHERE 
 AND person_1.person1_id = Love.person1_id
 AND Love.person2_id = person_2.person2_id;
-
-
-
