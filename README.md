@@ -1,5 +1,7 @@
 # the-love-schema
 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KqtmGizc1e7dAFnsks3Xj?si=KP37PMgXST-qMos4DpXv9A&utm_source=native-share-menu&nd=1#login)
+
 In linguistics, there is a syntactical rule that adjectives have to appear in a particular word order. 
 
 That order is the following:
@@ -16,7 +18,5 @@ That order is the following:
 10. purpose
 
 This database (composed of 15 - 20+ adjectives per individual), similarly describes the personal characteristics (e.g. physical features, personality types, etc.) of two fictional characters in an unrequited love relationship in order to demonstrate their dating compatiability. 
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KqtmGizc1e7dAFnsks3Xj?si=KP37PMgXST-qMos4DpXv9A&utm_source=native-share-menu&nd=1#login)
 
 Implemented using MySQL, MariaDB, and Azure Lab Services.
