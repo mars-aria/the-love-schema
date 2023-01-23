@@ -15,6 +15,6 @@ That order is the following:
 9. type
 10. purpose
 
-This database (composed of 15 - 20+ adjectives per individual), similarly describes the personal characteristics (e.g. physical features, personality types, etc.) of two fictional characters in an unrequited love relationship in order to demonstrate their dating compatiability. 
+This database (composed of 15 - 20+ adjectives per individual), similarly describes the personal characteristics (e.g. physical features, personality types, etc.) of two fictional entities in an unrequited love relationship in order to demonstrate their dating compatiability. 
 
 Implemented using MySQL, MariaDB, and Azure Lab Services.
